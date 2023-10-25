@@ -1,0 +1,6 @@
+groundtruth_correspondences/*.txt
+*.cpp
+makefile
+mouse_click_example.py
+report.docx
+YTvideo.mov
